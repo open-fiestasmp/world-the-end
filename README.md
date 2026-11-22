@@ -2,9 +2,11 @@
 
 Raw `world_the_end` save from FiestaSMP (`fiestamc.neocities.org`), saved on 2026-11-21. It's the End dimension; the Overworld and Nether are in the other repos.
 
+The `.world-tier/access` files are included too. They record region access times; they aren't needed to load the save.
+
 ## grab the files
 
-Open [Releases](https://github.com/open-fiestasmp/world-the-end/releases), pick `snapshot-2026-11-21`, then download **Source code (zip)** and extract it. The green **Code → Download ZIP** link gets the latest branch instead.
+Open [Releases](https://github.com/open-fiestasmp/world-the-end/releases), pick `snapshot-2026-11-22`, then download **Source code (zip)** and extract it. The green **Code → Download ZIP** link gets the latest branch instead.
 
 ## use it
 
