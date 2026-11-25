@@ -1,10 +1,10 @@
 # fiesta end
 
-This is the `world_the_end` folder from FiestaSMP, the Minecraft server at fiestamc.neocities.org. Snapshot date: 2026-11-25. It contains the End only; the matching Overworld and Nether are not included here.
+This is the `world_the_end` folder from FiestaSMP, the Minecraft server at fiestamc.neocities.org. Snapshot date: 2026-11-26. It contains the End only; the matching Overworld and Nether are not included here.
 
 ## download
 
-Open [Releases](https://github.com/open-fiestasmp/world-the-end/releases), choose `snapshot-2026-11-25`, and download **Source code (zip)**. Extract it. The folder with `level.dat` at its top level is the Paper End world folder. Rename it `world_the_end`; keep the files inside it, including `DIM1`.
+Open [Releases](https://github.com/open-fiestasmp/world-the-end/releases), choose `snapshot-2026-11-26`, and download **Source code (zip)**. Extract it. The folder with `level.dat` at its top level is the Paper End world folder. Rename it `world_the_end`; keep the files inside it, including `DIM1`.
 
 ## use it on a Paper server
 
